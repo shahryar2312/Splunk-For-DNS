@@ -31,3 +31,4 @@ DNS logs help reveal network activity and detect threats such as tunneling, DGA,
 
 ### 7. Verify Upload
 - Run a basic search:
+index=<your_index> sourcetype=CustomDNS
